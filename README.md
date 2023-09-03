@@ -4,6 +4,11 @@ the url for the backend is: https://jz5n3jxz3k.execute-api.us-east-2.amazonaws.c
 
 It is an API gateway that directs traffic to an AWS Lambda. The Lambda uses DynamoDB to as the database
 
+## References
+
+I used AWS documentation mostly with the following two being the most essential on [basic CRUD API with Lambda/DynamoDB](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-dynamo-db.html) and ensuring the [AWS account is configured correctly](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-set-up.html)
+
+
 
 ## Table Schema
 
