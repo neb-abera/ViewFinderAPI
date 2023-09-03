@@ -5,7 +5,7 @@ the url for the backend is: https://jz5n3jxz3k.execute-api.us-east-2.amazonaws.c
 It is an API gateway that directs traffic to an AWS Lambda. The Lambda uses DynamoDB to as the database
 
 
-##Table Schema
+## Table Schema
 
 The partition key is the combination of the primary and sort keys. The primary key is userID and the sort key is titleID. Data is stored as a container of Items such as
 
