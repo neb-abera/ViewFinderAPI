@@ -1,6 +1,6 @@
 # ViewFinderAPI
 
-the url for the backend is: https://jz5n3jxz3k.execute-api.us-east-2.amazonaws.com/apiV2
+the url for the backend was: https://jz5n3jxz3k.execute-api.us-east-2.amazonaws.com/apiV2 (the DB was deleted due to lack of use)
 
 It is an API gateway that directs traffic to an AWS Lambda. The Lambda uses DynamoDB to as the database
 
